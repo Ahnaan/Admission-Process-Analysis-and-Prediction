@@ -1,4 +1,4 @@
-# Admission-Process-Analysis-and-Prediction
+# Admission Process Analysis and Prediction
 
 <h2><b>Dataset</b></h2><br>
 This dataset is created for prediction of Graduate Admissions from an Indian perspective.
